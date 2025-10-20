@@ -36,4 +36,4 @@ dependencies:
   - r-forcats
 
   # Install project
-  - pip: [-e .,]
+  - pip: [-e ., polars, kloppy, streamlit, mplsoccer]
